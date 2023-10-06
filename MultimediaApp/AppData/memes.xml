@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfPictureModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PictureModel>
+    <Name>artic</Name>
+    <Tags>
+      <string>i</string>
+      <string>privet</string>
+      <string>ku</string>
+    </Tags>
+    <Path>C:\Users\User\Desktop\images\Новая папка\111111.png</Path>
+    <Id>6</Id>
+  </PictureModel>
+  <PictureModel>
+    <Name>risunok</Name>
+    <Tags>
+      <string>risunki</string>
+    </Tags>
+    <Path>C:\Users\User\Desktop\images\Новая папка\d.png</Path>
+    <Id>7</Id>
+  </PictureModel>
+</ArrayOfPictureModel>
